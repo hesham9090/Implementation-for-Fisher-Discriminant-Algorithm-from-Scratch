@@ -9,6 +9,7 @@ includes the labels of the 2400 images in order. After the classifiers are train
 classifier using the images given in the “Test” folder. Use the following equation for Fisher’s
 Linear Discriminant. The folder also contains a text file named “Test
 Labels.txt” which include the labels of the 200 images in order.
+
 Deliverables:
 • Your code.
 • A confusion matrix showing the number of images of the Test folder of each digit
