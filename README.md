@@ -12,6 +12,7 @@ Labels.txt” which include the labels of the 200 images in order.
 
 Deliverables:
 • Your code.
+
 • A confusion matrix showing the number of images of the Test folder of each digit
 that were classified to belong to different digits (For example: Number of images of 0
 that were classified as 0, 1, 2, …, 9, and so on for other digits). Convert the
