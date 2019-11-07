@@ -15,7 +15,7 @@ import seaborn as sns
 #1- Read and load training images 
 #2- Flatten  training Images
 
-training_img_path = 'E:\\Operation\\Masters\\Nile University\\Informatics Program\\Semster Feb - May 2019\\Introduction to Machine Learning and Statistical Analysis\\Lecture 4\\Train\\'
+training_img_path = 'E:\\Train\\'
 list_of_images_training = []
 for i in range(1,2401): 
     im_path = training_img_path + '{}.jpg'.format(i)
@@ -119,7 +119,7 @@ print('Accuracy of Training Phase= ', round((accuracy_score(training_digits,trai
 #2- Flatten images
 
 
-testing_img_path = 'E:\\Operation\\Masters\\Nile University\\Informatics Program\\Semster Feb - May 2019\\Introduction to Machine Learning and Statistical Analysis\\Lecture 4\\Test\\'
+testing_img_path = 'E:\Test\\'
 Y_All = []
 list_of_images_testing = []
 for u in range(1,201): 
